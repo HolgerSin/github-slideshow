@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+- [x] This should be a checkbox 
+
 Use the left arrow to go back!
